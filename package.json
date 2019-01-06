@@ -1,0 +1,34 @@
+{
+  "name": "learn-cross-domain",
+  "version": "1.0.0",
+  "description": "列举八种方案解决跨域问题",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yggdrasill-7C9/learn-cross-domain.git"
+  },
+  "keywords": [
+    "cross-domain",
+    "跨域",
+    "jsonp",
+    "cors",
+    "proxy",
+    "websocket"
+  ],
+  "author": "Yggdrasill-7C9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yggdrasill-7C9/learn-cross-domain/issues"
+  },
+  "homepage": "https://github.com/Yggdrasill-7C9/learn-cross-domain#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "http-proxy-middleware": "^0.17.4",
+    "socket.io": "^2.0.3"
+  }
+}
